@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\NombreyEdad\NombreyEdad\bin\Debug\NombreyEdad.exe.config
+C:\Users\User\source\repos\NombreyEdad\NombreyEdad\bin\Debug\NombreyEdad.exe
+C:\Users\User\source\repos\NombreyEdad\NombreyEdad\bin\Debug\NombreyEdad.pdb
+C:\Users\User\source\repos\NombreyEdad\NombreyEdad\obj\Debug\NombreyEdad.csprojAssemblyReference.cache
+C:\Users\User\source\repos\NombreyEdad\NombreyEdad\obj\Debug\NombreyEdad.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NombreyEdad\NombreyEdad\obj\Debug\NombreyEdad.exe
+C:\Users\User\source\repos\NombreyEdad\NombreyEdad\obj\Debug\NombreyEdad.pdb
