@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\ValoresMayor\ValoresMayor\bin\Debug\ValoresMayor.exe.config
+C:\Users\User\source\repos\ValoresMayor\ValoresMayor\bin\Debug\ValoresMayor.exe
+C:\Users\User\source\repos\ValoresMayor\ValoresMayor\bin\Debug\ValoresMayor.pdb
+C:\Users\User\source\repos\ValoresMayor\ValoresMayor\obj\Debug\ValoresMayor.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ValoresMayor\ValoresMayor\obj\Debug\ValoresMayor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ValoresMayor\ValoresMayor\obj\Debug\ValoresMayor.exe
+C:\Users\User\source\repos\ValoresMayor\ValoresMayor\obj\Debug\ValoresMayor.pdb
