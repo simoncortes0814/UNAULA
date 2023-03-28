@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CnPersonaMayorMenorEdad\CnPersonaMayorMenorEdad\bin\Debug\CnPersonaMayorMenorEdad.exe.config
+C:\Users\User\source\repos\CnPersonaMayorMenorEdad\CnPersonaMayorMenorEdad\bin\Debug\CnPersonaMayorMenorEdad.exe
+C:\Users\User\source\repos\CnPersonaMayorMenorEdad\CnPersonaMayorMenorEdad\bin\Debug\CnPersonaMayorMenorEdad.pdb
+C:\Users\User\source\repos\CnPersonaMayorMenorEdad\CnPersonaMayorMenorEdad\obj\Debug\CnPersonaMayorMenorEdad.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CnPersonaMayorMenorEdad\CnPersonaMayorMenorEdad\obj\Debug\CnPersonaMayorMenorEdad.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CnPersonaMayorMenorEdad\CnPersonaMayorMenorEdad\obj\Debug\CnPersonaMayorMenorEdad.exe
+C:\Users\User\source\repos\CnPersonaMayorMenorEdad\CnPersonaMayorMenorEdad\obj\Debug\CnPersonaMayorMenorEdad.pdb
