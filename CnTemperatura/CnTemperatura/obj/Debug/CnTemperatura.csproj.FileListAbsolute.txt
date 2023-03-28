@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\CnTemperatura\CnTemperatura\bin\Debug\CnTemperatura.exe.config
+C:\Users\User\source\repos\CnTemperatura\CnTemperatura\bin\Debug\CnTemperatura.exe
+C:\Users\User\source\repos\CnTemperatura\CnTemperatura\bin\Debug\CnTemperatura.pdb
+C:\Users\User\source\repos\CnTemperatura\CnTemperatura\obj\Debug\CnTemperatura.csprojAssemblyReference.cache
+C:\Users\User\source\repos\CnTemperatura\CnTemperatura\obj\Debug\CnTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CnTemperatura\CnTemperatura\obj\Debug\CnTemperatura.exe
+C:\Users\User\source\repos\CnTemperatura\CnTemperatura\obj\Debug\CnTemperatura.pdb
