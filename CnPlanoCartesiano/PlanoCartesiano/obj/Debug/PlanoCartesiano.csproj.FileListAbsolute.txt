@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PlanoCartesiano\PlanoCartesiano\bin\Debug\PlanoCartesiano.exe.config
+C:\Users\User\source\repos\PlanoCartesiano\PlanoCartesiano\bin\Debug\PlanoCartesiano.exe
+C:\Users\User\source\repos\PlanoCartesiano\PlanoCartesiano\bin\Debug\PlanoCartesiano.pdb
+C:\Users\User\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\PlanoCartesiano.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\PlanoCartesiano.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\PlanoCartesiano.exe
+C:\Users\User\source\repos\PlanoCartesiano\PlanoCartesiano\obj\Debug\PlanoCartesiano.pdb
