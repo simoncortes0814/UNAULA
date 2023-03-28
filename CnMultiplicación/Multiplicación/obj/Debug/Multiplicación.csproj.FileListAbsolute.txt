@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Multiplicación\Multiplicación\bin\Debug\Multiplicación.exe.config
+C:\Users\User\source\repos\Multiplicación\Multiplicación\bin\Debug\Multiplicación.exe
+C:\Users\User\source\repos\Multiplicación\Multiplicación\bin\Debug\Multiplicación.pdb
+C:\Users\User\source\repos\Multiplicación\Multiplicación\obj\Debug\Multiplicación.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Multiplicación\Multiplicación\obj\Debug\Multiplicación.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multiplicación\Multiplicación\obj\Debug\Multiplicación.exe
+C:\Users\User\source\repos\Multiplicación\Multiplicación\obj\Debug\Multiplicación.pdb
