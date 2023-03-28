@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\EmpleadoSueldo\EmpleadoSueldo\obj\Debug\EmpleadoSueldo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EmpleadoSueldo\EmpleadoSueldo\obj\Debug\EmpleadoSueldo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EmpleadoSueldo\EmpleadoSueldo\bin\Debug\EmpleadoSueldo.exe.config
+C:\Users\User\source\repos\EmpleadoSueldo\EmpleadoSueldo\bin\Debug\EmpleadoSueldo.exe
+C:\Users\User\source\repos\EmpleadoSueldo\EmpleadoSueldo\bin\Debug\EmpleadoSueldo.pdb
+C:\Users\User\source\repos\EmpleadoSueldo\EmpleadoSueldo\obj\Debug\EmpleadoSueldo.exe
+C:\Users\User\source\repos\EmpleadoSueldo\EmpleadoSueldo\obj\Debug\EmpleadoSueldo.pdb
